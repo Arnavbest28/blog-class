@@ -1,0 +1,46 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.movie text_span{
+    color: darkblue;
+}
+h4{
+    display: inline;
+}
+body{
+    background-color: linear-gradient (#ebc034 0%, #34ebbd 0%);
+}
+.header_books{
+    line-height: 2;
+}
+.book{
+    cursor: pointer;}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
